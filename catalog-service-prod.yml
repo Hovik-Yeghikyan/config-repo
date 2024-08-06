@@ -1,2 +1,2 @@
 bookshop:
-  greeting: "Welcome to th bookshop from config service in prod"
+  greeting: "Welcome to the bookshop from config service in prod"
