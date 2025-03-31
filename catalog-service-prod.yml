@@ -1,2 +1,2 @@
-bookshop:
+polar:
   greeting: "Welcome to the bookshop from config service in prod"
